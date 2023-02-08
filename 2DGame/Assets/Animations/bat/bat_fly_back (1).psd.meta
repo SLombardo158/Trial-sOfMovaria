@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 42fe2fa6b42b2a74fb0fb8ade8be6257
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2264485818903478750
+    second: bat_fly_back (1)_0
+  - first:
+      213: 7386039869007456905
+    second: bat_fly_back (1)_1
+  - first:
+      213: 1406903341367764646
+    second: bat_fly_back (1)_2
+  - first:
+      213: -4685894686382669630
+    second: bat_fly_back (1)_3
+  - first:
+      213: -7320962204659705929
+    second: bat_fly_back (1)_4
+  - first:
+      213: 3318150493847266155
+    second: bat_fly_back (1)_5
+  - first:
+      213: 8080533858925452788
+    second: bat_fly_back (1)_6
+  - first:
+      213: -5223662570068375519
+    second: bat_fly_back (1)_7
+  - first:
+      213: -1608831660683440915
+    second: bat_fly_back (1)_8
+  - first:
+      213: 5966171212752964964
+    second: bat_fly_back (1)_9
+  - first:
+      213: -3230970744087031850
+    second: bat_fly_back (1)_10
+  - first:
+      213: 1758286002943891238
+    second: bat_fly_back (1)_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bat_fly_back (1)_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1299
+        width: 422
+        height: 215
+      alignment: 9
+      pivot: {x: 0.53719175, y: 0.855873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e395d352ee290e0800000000000000
+      internalID: -2264485818903478750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_back (1)_1
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1268
+        width: 447
+        height: 215
+      alignment: 9
+      pivot: {x: 0.50877786, y: 0.855873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aef01c02c708660800000000000000
+      internalID: 7386039869007456905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_back (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1253
+        width: 368
+        height: 303
+      alignment: 9
+      pivot: {x: 0.46268165, y: 0.6035966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a629878223568310800000000000000
+      internalID: 1406903341367764646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_back (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1229
+        width: 338
+        height: 323
+      alignment: 9
+      pivot: {x: 0.45936936, y: 0.5668125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c045431c9b58feb0800000000000000
+      internalID: -4685894686382669630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_back (1)_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 827
+        width: 322
+        height: 333
+      alignment: 9
+      pivot: {x: 0.41470146, y: 0.5471318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b79239b9a7b66a90800000000000000
+      internalID: -7320962204659705929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_back (1)_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 837
+        width: 281
+        height: 318
+      alignment: 9
+      pivot: {x: 0.40225556, y: 0.56786305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63ad093b407c0e20800000000000000
+      internalID: 3318150493847266155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_back (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 541
+        width: 367
+        height: 303
+      alignment: 9
+      pivot: {x: 0.52263725, y: 0.5913972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd94c07bb2d32070800000000000000
+      internalID: 8080533858925452788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_back (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 564
+        width: 338
+        height: 323
+      alignment: 9
+      pivot: {x: 0.5409665, y: 0.53429496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12802949192d187b0800000000000000
+      internalID: -5223662570068375519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_back (1)_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 539
+        width: 423
+        height: 214
+      alignment: 9
+      pivot: {x: 0.45417184, y: 0.81057936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deccf89e0284ca9e0800000000000000
+      internalID: -1608831660683440915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_back (1)_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 542
+        width: 448
+        height: 216
+      alignment: 9
+      pivot: {x: 0.4814554, y: 0.8205247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d4d4d9b191cc250800000000000000
+      internalID: 5966171212752964964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_back (1)_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 123
+        width: 314
+        height: 326
+      alignment: 9
+      pivot: {x: 0.56173676, y: 0.5509695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df43070a394923d0800000000000000
+      internalID: -3230970744087031850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_back (1)_11
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 116
+        width: 284
+        height: 318
+      alignment: 9
+      pivot: {x: 0.5877608, y: 0.56096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627130bcdcfa66810800000000000000
+      internalID: 1758286002943891238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

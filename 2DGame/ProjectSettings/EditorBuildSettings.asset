@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 82e42e32d79092745a6e0915ca5443fb
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 6bed626530c786b4693a09e2f08d42ba
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection/PlayerSelection.unity
+    guid: d222a454d8b4f784f82d57fadcd44530
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection/Jordan.unity
+    guid: 0fb51a3c1facda94d9da52d862de21e8
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection/Julia.unity
+    guid: a3e5ee15fcb50fb4b853a52bea290374
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection/Sammy.unity
+    guid: a7836817ac78da843aa0875c766da947
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Bare-Bones.unity
+    guid: 0380ed7ee98cb1a4f9aff64cc51acc28
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 4d05f2171b5cde14eb0f3dac197e8496
+  - enabled: 1
+    path: Assets/Scenes/castle.unity
+    guid: 7fcc4297065614f7db7c7bac3892e391
+  m_configObjects: {}

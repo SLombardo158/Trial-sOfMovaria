@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: fb5490fdfe8ab884aad766b7532ff87e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5272917660322649027
+    second: spider_walk_0
+  - first:
+      213: -7064983452712947858
+    second: spider_walk_1
+  - first:
+      213: -4597246875688338828
+    second: spider_walk_2
+  - first:
+      213: 31520207020265534
+    second: spider_walk_3
+  - first:
+      213: 8720048224062660783
+    second: spider_walk_4
+  - first:
+      213: -3208373359875825323
+    second: spider_walk_5
+  - first:
+      213: 4179735119082145839
+    second: spider_walk_6
+  - first:
+      213: -1895350442524086344
+    second: spider_walk_7
+  - first:
+      213: 3079156906622702526
+    second: spider_walk_8
+  - first:
+      213: 3088954664851952242
+    second: spider_walk_9
+  - first:
+      213: 8655803780483659543
+    second: spider_walk_10
+  - first:
+      213: -9077601503158924013
+    second: spider_walk_11
+  - first:
+      213: 559914271574135229
+    second: spider_walk_12
+  - first:
+      213: 6175290687724444501
+    second: spider_walk_13
+  - first:
+      213: -3927113904281253564
+    second: spider_walk_14
+  - first:
+      213: -8949579474091732163
+    second: spider_walk_15
+  - first:
+      213: 5199841085414280986
+    second: spider_walk_16
+  - first:
+      213: -4215526127430060352
+    second: spider_walk_17
+  - first:
+      213: -3769846759308717632
+    second: spider_walk_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spider_walk_0
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1105
+        width: 327
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ca5963355d2d6b0800000000000000
+      internalID: -5272917660322649027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_1
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1122
+        width: 317
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f280d4bf224fd90800000000000000
+      internalID: -7064983452712947858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_2
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1117
+        width: 326
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a72d5e25c4330c0800000000000000
+      internalID: -4597246875688338828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 987
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3090b6167bff6000800000000000000
+      internalID: 31520207020265534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_4
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 779
+        width: 326
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0e783b8a5d30970800000000000000
+      internalID: 8720048224062660783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_5
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 798
+        width: 316
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55166c98d619973d0800000000000000
+      internalID: -3208373359875825323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 759
+        width: 328
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28cd1412f6610a30800000000000000
+      internalID: 4179735119082145839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 410
+        width: 332
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfe87480dc52b5e0800000000000000
+      internalID: -1895350442524086344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_8
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 428
+        width: 339
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3dfea74ec5bba20800000000000000
+      internalID: 3079156906622702526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_9
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 494
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27259c5d6eb2eda20800000000000000
+      internalID: 3088954664851952242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_10
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 431
+        width: 353
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717363d8da79f1870800000000000000
+      internalID: 8655803780483659543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_11
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 491
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d09af2781e50280800000000000000
+      internalID: -9077601503158924013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_12
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 476
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db119dd301735c700800000000000000
+      internalID: 559914271574135229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 146
+        width: 339
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bd792992a03b550800000000000000
+      internalID: 6175290687724444501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_14
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 144
+        width: 353
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44981d6f5b61089c0800000000000000
+      internalID: -3927113904281253564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_15
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 225
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3392ad92e4bcc380800000000000000
+      internalID: -8949579474091732163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_16
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 159
+        width: 332
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f8990daeb892840800000000000000
+      internalID: 5199841085414280986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 212
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6372962517f75c0800000000000000
+      internalID: -4215526127430060352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_walk_18
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 204
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c11fbd8850deabc0800000000000000
+      internalID: -3769846759308717632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

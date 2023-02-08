@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: 859668e48c34a1d48ab8a02b0e48f2a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4486560305349478877
+    second: bat_fly_front_0
+  - first:
+      213: 5698710863719070951
+    second: bat_fly_front_1
+  - first:
+      213: -3042206443358402749
+    second: bat_fly_front_2
+  - first:
+      213: 7800802237296441545
+    second: bat_fly_front_3
+  - first:
+      213: -6963257712158564369
+    second: bat_fly_front_4
+  - first:
+      213: -5991003618853082042
+    second: bat_fly_front_5
+  - first:
+      213: -3148545463015876289
+    second: bat_fly_front_6
+  - first:
+      213: -5978113800893663533
+    second: bat_fly_front_7
+  - first:
+      213: -1849229868259588733
+    second: bat_fly_front_8
+  - first:
+      213: 6667091255212591167
+    second: bat_fly_front_9
+  - first:
+      213: 3028615204636291411
+    second: bat_fly_front_10
+  - first:
+      213: 8446677702636665013
+    second: bat_fly_front_11
+  - first:
+      213: -6981600123098259079
+    second: bat_fly_front_12
+  - first:
+      213: 2872679915100919186
+    second: bat_fly_front_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bat_fly_front_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1370
+        width: 484
+        height: 254
+      alignment: 9
+      pivot: {x: 0.44591662, y: 0.79822356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b6405c298cb1c0800000000000000
+      internalID: -4486560305349478877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_1
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1339
+        width: 355
+        height: 288
+      alignment: 9
+      pivot: {x: 0.43491313, y: 0.82531863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec72a56653e51f40800000000000000
+      internalID: 5698710863719070951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_2
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1339
+        width: 420
+        height: 293
+      alignment: 9
+      pivot: {x: 0.46157837, y: 0.8133195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c73aab59e7c5d0800000000000000
+      internalID: -3042206443358402749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_3
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1350
+        width: 506
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4935942, y: 0.79996556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8702ded44024c60800000000000000
+      internalID: 7800802237296441545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 932
+        width: 451
+        height: 365
+      alignment: 9
+      pivot: {x: 0.42103878, y: 0.5483318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef1a43f00a8d5f90800000000000000
+      internalID: -6963257712158564369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_5
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 880
+        width: 382
+        height: 386
+      alignment: 9
+      pivot: {x: 0.4322425, y: 0.5575859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cae2a43fdabdca0800000000000000
+      internalID: -5991003618853082042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_6
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 877
+        width: 318
+        height: 360
+      alignment: 9
+      pivot: {x: 0.34108672, y: 0.544067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3955c5459e1e44d0800000000000000
+      internalID: -3148545463015876289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_7
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 941
+        width: 484
+        height: 255
+      alignment: 9
+      pivot: {x: 0.53122556, y: 0.80818975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d67fd6eb29790da0800000000000000
+      internalID: -5978113800893663533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 604
+        width: 356
+        height: 289
+      alignment: 9
+      pivot: {x: 0.53608936, y: 0.81860244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38548528b373656e0800000000000000
+      internalID: -1849229868259588733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_9
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 549
+        width: 421
+        height: 293
+      alignment: 9
+      pivot: {x: 0.5356035, y: 0.8288691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f384f004c24468c50800000000000000
+      internalID: 6667091255212591167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_10
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 557
+        width: 506
+        height: 276
+      alignment: 9
+      pivot: {x: 0.51269555, y: 0.7870587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35171b97b7dc70a20800000000000000
+      internalID: 3028615204636291411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_11
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 525
+        width: 451
+        height: 365
+      alignment: 9
+      pivot: {x: 0.59021026, y: 0.55866563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8fedd3e90a83570800000000000000
+      internalID: 8446677702636665013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 60
+        width: 381
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5786832, y: 0.5556181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971a7ea9daf5c1f90800000000000000
+      internalID: -6981600123098259079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_fly_front_13
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 68
+        width: 318
+        height: 360
+      alignment: 9
+      pivot: {x: 0.6548744, y: 0.54163635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2955df4a92fcdd720800000000000000
+      internalID: 2872679915100919186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

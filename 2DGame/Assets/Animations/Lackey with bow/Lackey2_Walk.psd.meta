@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: a7dc72ebb749d6f4dab85426c13ae897
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1145870931743113379
+    second: Lackey2_Walk_0
+  - first:
+      213: 6723013758631574317
+    second: Lackey2_Walk_1
+  - first:
+      213: -2324390658133576834
+    second: Lackey2_Walk_2
+  - first:
+      213: -7172182576238276679
+    second: Lackey2_Walk_3
+  - first:
+      213: 5907760601931773142
+    second: Lackey2_Walk_4
+  - first:
+      213: -6873080611933749621
+    second: Lackey2_Walk_5
+  - first:
+      213: -1239158001275962682
+    second: Lackey2_Walk_6
+  - first:
+      213: -3924393618421887168
+    second: Lackey2_Walk_7
+  - first:
+      213: -6340004260116115399
+    second: Lackey2_Walk_8
+  - first:
+      213: 5981816824034995952
+    second: Lackey2_Walk_9
+  - first:
+      213: -1308112831885187071
+    second: Lackey2_Walk_10
+  - first:
+      213: 486215420952996642
+    second: Lackey2_Walk_11
+  - first:
+      213: -8742689313592384792
+    second: Lackey2_Walk_12
+  - first:
+      213: 2084771670421574229
+    second: Lackey2_Walk_13
+  - first:
+      213: -6112441252259630529
+    second: Lackey2_Walk_14
+  - first:
+      213: -5641285098429164940
+    second: Lackey2_Walk_15
+  - first:
+      213: 4534785273518450056
+    second: Lackey2_Walk_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lackey2_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1136
+        width: 243
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a08ef49a83f6ef00800000000000000
+      internalID: 1145870931743113379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey2_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1137
+        width: 243
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b7c47b461fc4d50800000000000000
+      internalID: 6723013758631574317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey2_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1122
+        width: 237
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7336b6f20b1ebfd0800000000000000
+      internalID: -2324390658133576834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey2_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1128
+        width: 258
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf421f52f9477c90800000000000000
+      internalID: -7172182576238276679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey2_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1130
+        width: 278
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e701d3999ed90a0800000000000000
+      internalID: -6873080611933749621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey2_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1129
+        width: 255
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cafc59fc50adcee0800000000000000
+      internalID: -1239158001275962682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey2_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1539
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f472fdbc0c989c0800000000000000
+      internalID: -3924393618421887168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey2_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 226
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b683a69526fb600800000000000000
+      internalID: 486215420952996642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey2_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 337
+        width: 249
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2e8b9d36abba680800000000000000
+      internalID: -8742689313592384792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey2_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 344
+        width: 236
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5529645e9c89eec10800000000000000
+      internalID: 2084771670421574229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey2_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 326
+        width: 230
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32fe90f01f3c2ba0800000000000000
+      internalID: -6112441252259630529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey2_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 314
+        width: 231
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472dc6f771126b1b0800000000000000
+      internalID: -5641285098429164940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey2_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 312
+        width: 233
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8856db01e2bceee30800000000000000
+      internalID: 4534785273518450056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

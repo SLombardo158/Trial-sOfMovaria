@@ -1,0 +1,709 @@
+fileFormatVersion: 2
+guid: ab768303d36e36c4da41459b8ace70fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4269854471825251166
+    second: Julia_attack_short_range_0
+  - first:
+      213: 2181368371502024750
+    second: Julia_attack_short_range_1
+  - first:
+      213: -1100228156807831383
+    second: Julia_attack_short_range_2
+  - first:
+      213: -7151645773852936593
+    second: Julia_attack_short_range_3
+  - first:
+      213: -3116038223146167844
+    second: Julia_attack_short_range_4
+  - first:
+      213: -2811048960953694227
+    second: Julia_attack_short_range_5
+  - first:
+      213: -3516534004250045408
+    second: Julia_attack_short_range_6
+  - first:
+      213: 1180639398833584645
+    second: Julia_attack_short_range_7
+  - first:
+      213: 6862029162247938827
+    second: Julia_attack_short_range_8
+  - first:
+      213: -6779463999890392979
+    second: Julia_attack_short_range_9
+  - first:
+      213: -2152936518921020825
+    second: Julia_attack_short_range_10
+  - first:
+      213: 6853732689011612030
+    second: Julia_attack_short_range_11
+  - first:
+      213: 3835569054798046038
+    second: Julia_attack_short_range_12
+  - first:
+      213: -6379106968280714191
+    second: Julia_attack_short_range_13
+  - first:
+      213: -9197982310068157224
+    second: Julia_attack_short_range_14
+  - first:
+      213: 1372785278632929759
+    second: Julia_attack_short_range_15
+  - first:
+      213: -7348884072981390206
+    second: Julia_attack_short_range_16
+  - first:
+      213: 2199800874897254793
+    second: Julia_attack_short_range_17
+  - first:
+      213: 1242688983447715639
+    second: Julia_attack_short_range_18
+  - first:
+      213: -9206021571201540766
+    second: Julia_attack_short_range_19
+  - first:
+      213: -2572725958775450276
+    second: Julia_attack_short_range_20
+  - first:
+      213: 3981098167176846892
+    second: Julia_attack_short_range_21
+  - first:
+      213: -3186509124244108094
+    second: Julia_attack_short_range_22
+  - first:
+      213: -605877063073362840
+    second: Julia_attack_short_range_23
+  - first:
+      213: 5387864286243025539
+    second: Julia_attack_short_range_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Julia_attack_short_range_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1437
+        width: 205
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bd1cbf402914b30800000000000000
+      internalID: 4269854471825251166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1437
+        width: 227
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2886abf9f6c54e10800000000000000
+      internalID: 2181368371502024750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_2
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1438
+        width: 252
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0269512543bb0f0800000000000000
+      internalID: -1100228156807831383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_3
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1434
+        width: 257
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66721a4f0040cc90800000000000000
+      internalID: -7151645773852936593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_4
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1436
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd155dadebb91c4d0800000000000000
+      internalID: -3116038223146167844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_5
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1435
+        width: 288
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7cf141dd52df8d0800000000000000
+      internalID: -2811048960953694227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1014
+        width: 186
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024181c54f2c23fc0800000000000000
+      internalID: -3516534004250045408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1011
+        width: 177
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a7e472749726010800000000000000
+      internalID: 1180639398833584645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1009
+        width: 188
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03e82e9a23da3f50800000000000000
+      internalID: 6862029162247938827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_9
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1008
+        width: 207
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68fbf649618ae1a0800000000000000
+      internalID: -6779463999890392979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_10
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1006
+        width: 220
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a1fbd84ab3f12e0800000000000000
+      internalID: -2152936518921020825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_11
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1005
+        width: 234
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79150a61995d1f50800000000000000
+      internalID: 6853732689011612030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 579
+        width: 205
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653e7becbbdaa3530800000000000000
+      internalID: 3835569054798046038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 579
+        width: 243
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134b863a20cd877a0800000000000000
+      internalID: -6379106968280714191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_14
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 576
+        width: 290
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d48f0e62d33a5080800000000000000
+      internalID: -9197982310068157224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_15
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 576
+        width: 277
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd92dc500fc1d0310800000000000000
+      internalID: 1372785278632929759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_16
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 554
+        width: 292
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c1b662fd4830a90800000000000000
+      internalID: -7348884072981390206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_17
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 581
+        width: 315
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98928dc9d33478e10800000000000000
+      internalID: 2199800874897254793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_18
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 586
+        width: 327
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f31b0eb0bee3110800000000000000
+      internalID: 1242688983447715639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_19
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 692
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dd2f51824ad3080800000000000000
+      internalID: -9206021571201540766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 93
+        width: 186
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5553c21f57db4cd0800000000000000
+      internalID: -2572725958775450276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 93
+        width: 173
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ed886b0b3bf3730800000000000000
+      internalID: 3981098167176846892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_22
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 91
+        width: 173
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc83e795de37c3d0800000000000000
+      internalID: -3186509124244108094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_23
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 89
+        width: 196
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c84fd650e7797f0800000000000000
+      internalID: -605877063073362840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_attack_short_range_24
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 88
+        width: 206
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382778fa50a85ca40800000000000000
+      internalID: 5387864286243025539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

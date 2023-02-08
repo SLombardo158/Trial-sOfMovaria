@@ -1,0 +1,1600 @@
+fileFormatVersion: 2
+guid: 4b7fb6f0a1ac9434bafc80c5f8f4b770
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1644791189185988722
+    second: Lilith_attack_2_0
+  - first:
+      213: -5835719615957837892
+    second: Lilith_attack_2_1
+  - first:
+      213: -3394631742150286801
+    second: Lilith_attack_2_2
+  - first:
+      213: 618417494205532429
+    second: Lilith_attack_2_3
+  - first:
+      213: -4896006359666358154
+    second: Lilith_attack_2_4
+  - first:
+      213: 1890340186060401050
+    second: Lilith_attack_2_5
+  - first:
+      213: -2096583265186489100
+    second: Lilith_attack_2_6
+  - first:
+      213: 2506045717926387972
+    second: Lilith_attack_2_7
+  - first:
+      213: -4775302888509287662
+    second: Lilith_attack_2_8
+  - first:
+      213: 6896473526528025781
+    second: Lilith_attack_2_9
+  - first:
+      213: -4387993069918952845
+    second: Lilith_attack_2_10
+  - first:
+      213: -2404789973953136117
+    second: Lilith_attack_2_11
+  - first:
+      213: 3544814270014949310
+    second: Lilith_attack_2_12
+  - first:
+      213: 1075159377591755071
+    second: Lilith_attack_2_13
+  - first:
+      213: 3562425909851382379
+    second: Lilith_attack_2_14
+  - first:
+      213: 8941216596275280616
+    second: Lilith_attack_2_15
+  - first:
+      213: 7327904064552789602
+    second: Lilith_attack_2_16
+  - first:
+      213: 8766731879033352599
+    second: Lilith_attack_2_17
+  - first:
+      213: 1876063747805214536
+    second: Lilith_attack_2_18
+  - first:
+      213: 215682753870410233
+    second: Lilith_attack_2_19
+  - first:
+      213: -2328048368171480671
+    second: Lilith_attack_2_20
+  - first:
+      213: 4332650708132144344
+    second: Lilith_attack_2_21
+  - first:
+      213: 1741949146822893900
+    second: Lilith_attack_2_22
+  - first:
+      213: -4187824078981326845
+    second: Lilith_attack_2_23
+  - first:
+      213: 7046190239837290116
+    second: Lilith_attack_2_24
+  - first:
+      213: -5475389016349023818
+    second: Lilith_attack_2_25
+  - first:
+      213: 1052228047277070805
+    second: Lilith_attack_2_26
+  - first:
+      213: -4996680307456595393
+    second: Lilith_attack_2_27
+  - first:
+      213: 4839393882029647110
+    second: Lilith_attack_2_28
+  - first:
+      213: -7630023140453037574
+    second: Lilith_attack_2_29
+  - first:
+      213: 8769159364616624931
+    second: Lilith_attack_2_30
+  - first:
+      213: -2539224904887402434
+    second: Lilith_attack_2_31
+  - first:
+      213: -9031335827190799267
+    second: Lilith_attack_2_32
+  - first:
+      213: -2042041504917121913
+    second: Lilith_attack_2_33
+  - first:
+      213: -6591016334146378212
+    second: Lilith_attack_2_34
+  - first:
+      213: -4563580445106089941
+    second: Lilith_attack_2_35
+  - first:
+      213: 9079497617319888055
+    second: Lilith_attack_2_36
+  - first:
+      213: -2734680791931411287
+    second: Lilith_attack_2_37
+  - first:
+      213: 2759236149324867843
+    second: Lilith_attack_2_38
+  - first:
+      213: 8984235779490655251
+    second: Lilith_attack_2_39
+  - first:
+      213: 4382259125420610465
+    second: Lilith_attack_2_40
+  - first:
+      213: 6313334776754952302
+    second: Lilith_attack_2_41
+  - first:
+      213: 5555716629040877359
+    second: Lilith_attack_2_42
+  - first:
+      213: -783791467696526835
+    second: Lilith_attack_2_43
+  - first:
+      213: -3204171912414156792
+    second: Lilith_attack_2_44
+  - first:
+      213: -1634826234327638173
+    second: Lilith_attack_2_45
+  - first:
+      213: -7011287045612966704
+    second: Lilith_attack_2_46
+  - first:
+      213: -6457883607306166168
+    second: Lilith_attack_2_47
+  - first:
+      213: 2564075098030684901
+    second: Lilith_attack_2_48
+  - first:
+      213: 7471982809279760714
+    second: Lilith_attack_2_49
+  - first:
+      213: -5839224804681312066
+    second: Lilith_attack_2_50
+  - first:
+      213: 887283140506434902
+    second: Lilith_attack_2_51
+  - first:
+      213: 536789125269574589
+    second: Lilith_attack_2_52
+  - first:
+      213: 3603553166189680275
+    second: Lilith_attack_2_53
+  - first:
+      213: -7190675292213698364
+    second: Lilith_attack_2_54
+  - first:
+      213: 390335364779445084
+    second: Lilith_attack_2_55
+  - first:
+      213: 1152102252901557942
+    second: Lilith_attack_2_56
+  - first:
+      213: -3507854810135445136
+    second: Lilith_attack_2_57
+  - first:
+      213: 5174029549622550123
+    second: Lilith_attack_2_58
+  - first:
+      213: 4915260632919404597
+    second: Lilith_attack_2_59
+  - first:
+      213: -2081802031858489347
+    second: Lilith_attack_2_60
+  - first:
+      213: -5087458655232740484
+    second: Lilith_attack_2_61
+  - first:
+      213: -6296236099568777209
+    second: Lilith_attack_2_62
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lilith_attack_2_0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1155
+        width: 418
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8770eeb0278c29e0800000000000000
+      internalID: -1644791189185988722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1570
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7dd02adeb530fa0800000000000000
+      internalID: -5835719615957837892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1163
+        width: 436
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22edd18a68d3e0d0800000000000000
+      internalID: -3394631742150286801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_3
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1165
+        width: 427
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0902093f6f059800800000000000000
+      internalID: 618417494205532429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_4
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1579
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6788802f724ed0cb0800000000000000
+      internalID: -4896006359666358154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_5
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1437
+        width: 238
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99a6ce3266db3a10800000000000000
+      internalID: 1890340186060401050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_6
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1435
+        width: 302
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcd784e0a077e2e0800000000000000
+      internalID: -2096583265186489100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_7
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 1429
+        width: 345
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40124e78d4347c220800000000000000
+      internalID: 2506045717926387972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1521
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213d183d257babdb0800000000000000
+      internalID: -4775302888509287662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_9
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1521
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4a69f122235bf50800000000000000
+      internalID: 6896473526528025781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_10
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1449
+        width: 161
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372ea9e2d87ba13c0800000000000000
+      internalID: -4387993069918952845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_11
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1452
+        width: 183
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a3a13824870aed0800000000000000
+      internalID: -2404789973953136117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_13
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1486
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31694ae1cbbbee00800000000000000
+      internalID: 1075159377591755071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_14
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1486
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62e65f8d77407130800000000000000
+      internalID: 3562425909851382379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1478
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eab0d82f15951c70800000000000000
+      internalID: 8941216596275280616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_16
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1431
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2666fcbfbe1f1b560800000000000000
+      internalID: 7327904064552789602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_17
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1423
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79130e22230b9a970800000000000000
+      internalID: 8766731879033352599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_18
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1412
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847faefe90e190a10800000000000000
+      internalID: 1876063747805214536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1403
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1bf9862524ef200800000000000000
+      internalID: 215682753870410233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_20
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1404
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9063bf75c11bfd0800000000000000
+      internalID: -2328048368171480671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_21
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1316
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4af0a1ddaa02c30800000000000000
+      internalID: 4332650708132144344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_22
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 726
+        width: 421
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c416c211585ac2810800000000000000
+      internalID: 1741949146822893900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_23
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 726
+        width: 412
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3089d7e203cd1e5c0800000000000000
+      internalID: -4187824078981326845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_24
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 724
+        width: 401
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e7359d0b819c160800000000000000
+      internalID: 7046190239837290116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_25
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 1184
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1e07113b28304b0800000000000000
+      internalID: -5475389016349023818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_26
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1156
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d917a485d34a9e00800000000000000
+      internalID: 1052228047277070805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_27
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1164
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a2cd1ebb938aab0800000000000000
+      internalID: -4996680307456595393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_28
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 1148
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6056392781bf82340800000000000000
+      internalID: 4839393882029647110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_29
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1149
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9494d1166bc1690800000000000000
+      internalID: -7630023140453037574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_30
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1151
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b93ca2bff42b970800000000000000
+      internalID: 8769159364616624931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 608
+        width: 413
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e308c53076cd2ccd0800000000000000
+      internalID: -2539224904887402434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_32
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 611
+        width: 414
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54a80d4aef3aa280800000000000000
+      internalID: -9031335827190799267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_33
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 608
+        width: 414
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7849fca021639a3e0800000000000000
+      internalID: -2042041504917121913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_34
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1021
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16686690910884a0800000000000000
+      internalID: -6591016334146378212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_35
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1021
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20588993c7eaa0c0800000000000000
+      internalID: -4563580445106089941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_36
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 996
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b48b5b4afad00e70800000000000000
+      internalID: 9079497617319888055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_37
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 998
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a428d60f467c0ad0800000000000000
+      internalID: -2734680791931411287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_38
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 980
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ece3a8a6ca4620800000000000000
+      internalID: 2759236149324867843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_39
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 978
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c25e647da6eac70800000000000000
+      internalID: 8984235779490655251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_40
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 983
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d864d479e0dc30800000000000000
+      internalID: 4382259125420610465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_41
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 976
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68599ca7887d9750800000000000000
+      internalID: 6313334776754952302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_42
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 13
+        width: 423
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f46b2b6ded91d40800000000000000
+      internalID: 5555716629040877359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_43
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 13
+        width: 401
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a67f510d96f15f0800000000000000
+      internalID: -783791467696526835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_44
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 15
+        width: 401
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80825414f9e7883d0800000000000000
+      internalID: -3204171912414156792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_45
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 478
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f5969933eef49e0800000000000000
+      internalID: -1634826234327638173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_46
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 465
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dce0f35497e2be90800000000000000
+      internalID: -7011287045612966704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_47
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860a2b1131df066a0800000000000000
+      internalID: -6457883607306166168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_48
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 429
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea3b8377bc659320800000000000000
+      internalID: 2564075098030684901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_49
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 430
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4902fad6c0d1b760800000000000000
+      internalID: 7471982809279760714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_50
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 433
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb812594af7e6fea0800000000000000
+      internalID: -5839224804681312066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 338
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d3415b053405c00800000000000000
+      internalID: 887283140506434902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_52
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 338
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db35cfa8dde037700800000000000000
+      internalID: 536789125269574589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_53
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39658ff1384620230800000000000000
+      internalID: 3603553166189680275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_54
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 282
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0ac686be6953c90800000000000000
+      internalID: -7190675292213698364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_55
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 304
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b83f832ffba6500800000000000000
+      internalID: 390335364779445084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 281
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6ef1915e61dff00800000000000000
+      internalID: 1152102252901557942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_57
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 283
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0714b36b2a8915fc0800000000000000
+      internalID: -3507854810135445136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 269
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e50a25678ddc740800000000000000
+      internalID: 5174029549622550123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_59
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5307f93e083863440800000000000000
+      internalID: 4915260632919404597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 262
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df76366f414fb13e0800000000000000
+      internalID: -2081802031858489347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_61
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 262
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73bd5dbe47b569b0800000000000000
+      internalID: -5087458655232740484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilith_attack_2_62
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 264
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708463750a64f98a0800000000000000
+      internalID: -6296236099568777209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

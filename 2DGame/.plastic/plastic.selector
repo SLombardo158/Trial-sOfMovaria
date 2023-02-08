@@ -1,0 +1,4 @@
+repository "duel_demo@orbit7@cloud"
+  path "/"
+    br "/main"
+    co "/main"

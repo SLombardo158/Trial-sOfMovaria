@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: e8f9301e034c42542a5e684599de420b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6153022836575999050
+    second: Lackey1_Attack__0
+  - first:
+      213: -2615545203304636956
+    second: Lackey1_Attack__1
+  - first:
+      213: 5889214622100914144
+    second: Lackey1_Attack__2
+  - first:
+      213: -96317148844118623
+    second: Lackey1_Attack__3
+  - first:
+      213: -603715321750547329
+    second: Lackey1_Attack__4
+  - first:
+      213: 8827411528675960591
+    second: Lackey1_Attack__5
+  - first:
+      213: -6872155043816849362
+    second: Lackey1_Attack__6
+  - first:
+      213: 674189195562161129
+    second: Lackey1_Attack__7
+  - first:
+      213: -8108246469702576661
+    second: Lackey1_Attack__8
+  - first:
+      213: 2484615855522227663
+    second: Lackey1_Attack__9
+  - first:
+      213: -455233871827331807
+    second: Lackey1_Attack__10
+  - first:
+      213: -8721087530623837657
+    second: Lackey1_Attack__11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lackey1_Attack__0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1507
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb650b84521c9aa0800000000000000
+      internalID: -6153022836575999050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey1_Attack__1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1117
+        width: 170
+        height: 474
+      alignment: 9
+      pivot: {x: 0.4515713, y: 0.5322006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eddc0fce77b3bbd0800000000000000
+      internalID: -2615545203304636956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey1_Attack__2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1111
+        width: 197
+        height: 474
+      alignment: 9
+      pivot: {x: 0.5278608, y: 0.54218715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef7c541f71bab150800000000000000
+      internalID: 5889214622100914144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey1_Attack__3
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1097
+        width: 216
+        height: 473
+      alignment: 9
+      pivot: {x: 0.57623035, y: 0.5536642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad2e5d3010d9aef0800000000000000
+      internalID: -96317148844118623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey1_Attack__4
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1110
+        width: 196
+        height: 474
+      alignment: 9
+      pivot: {x: 0.5362281, y: 0.5311884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74199d0d1c2f97f0800000000000000
+      internalID: -603715321750547329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey1_Attack__5
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1114
+        width: 186
+        height: 473
+      alignment: 9
+      pivot: {x: 0.48524526, y: 0.5280625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f072be40404418a70800000000000000
+      internalID: 8827411528675960591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey1_Attack__6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1091
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2043ebd56331a0a0800000000000000
+      internalID: -6872155043816849362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey1_Attack__7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 537
+        width: 250
+        height: 480
+      alignment: 9
+      pivot: {x: 0.42635986, y: 0.4127949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e393e850833b5900800000000000000
+      internalID: 674189195562161129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey1_Attack__8
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 538
+        width: 281
+        height: 479
+      alignment: 9
+      pivot: {x: 0.38118106, y: 0.40282476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5101e8bc8b97f80800000000000000
+      internalID: -8108246469702576661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey1_Attack__9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 543
+        width: 266
+        height: 480
+      alignment: 9
+      pivot: {x: 0.39941543, y: 0.40541077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5a4bfd4f02b7220800000000000000
+      internalID: 2484615855522227663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey1_Attack__10
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 531
+        width: 274
+        height: 480
+      alignment: 9
+      pivot: {x: 0.41277763, y: 0.41041172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125910c943faea9f0800000000000000
+      internalID: -455233871827331807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey1_Attack__11
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 521
+        width: 255
+        height: 480
+      alignment: 9
+      pivot: {x: 0.40627873, y: 0.40946096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ad312e81978f680800000000000000
+      internalID: -8721087530623837657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

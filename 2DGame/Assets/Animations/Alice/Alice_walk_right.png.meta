@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: b8fdb6d75311b8340b417420a7511831
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8421684604176282917
+    second: Alice_walk_right_2
+  - first:
+      213: 7211639203226389363
+    second: Alice_walk_right_3
+  - first:
+      213: 4382023851308387098
+    second: Alice_walk_right_4
+  - first:
+      213: -6287658796123054507
+    second: Alice_walk_right_6
+  - first:
+      213: -6295812519447714861
+    second: Alice_walk_right_0
+  - first:
+      213: 8860304056410413862
+    second: Alice_walk_right_1
+  - first:
+      213: -6903398069269849867
+    second: Alice_walk_right_5
+  - first:
+      213: -3207001427073346173
+    second: Alice_walk_right_7
+  - first:
+      213: -6904673558586127786
+    second: Alice_walk_right_8
+  - first:
+      213: 2361966685089947665
+    second: Alice_walk_right_9
+  - first:
+      213: 8665708536156979344
+    second: Alice_walk_right_10
+  - first:
+      213: 8300348190220626064
+    second: Alice_walk_right_11
+  - first:
+      213: 5198684017051423871
+    second: Alice_walk_right_12
+  - first:
+      213: 6774151211954820382
+    second: Alice_walk_right_13
+  - first:
+      213: -2728930777808185454
+    second: Alice_walk_right_14
+  - first:
+      213: -3997094509341700885
+    second: Alice_walk_right_15
+  - first:
+      213: -3294352246671913604
+    second: Alice_walk_right_16
+  - first:
+      213: -7706439895157528360
+    second: Alice_walk_right_17
+  - first:
+      213: 7121159289712884934
+    second: Alice_walk_right_18
+  - first:
+      213: 3406826672866970486
+    second: Alice_walk_right_19
+  - first:
+      213: -6083261695148415683
+    second: Alice_walk_right_20
+  - first:
+      213: -5249469018784032743
+    second: Alice_walk_right_21
+  - first:
+      213: 4884542719930979888
+    second: Alice_walk_right_22
+  - first:
+      213: 6277960935033449974
+    second: Alice_walk_right_23
+  - first:
+      213: -612743374401669034
+    second: Alice_walk_right_24
+  - first:
+      213: 4040364760010500536
+    second: Alice_walk_right_25
+  - first:
+      213: -8133903684557348882
+    second: Alice_walk_right_26
+  - first:
+      213: 2584390145792010496
+    second: Alice_walk_right_27
+  - first:
+      213: -2052042133070261344
+    second: Alice_walk_right_28
+  - first:
+      213: -5715358694790406216
+    second: Alice_walk_right_29
+  - first:
+      213: 1233831937874806391
+    second: Alice_walk_right_30
+  - first:
+      213: 8626335627825046857
+    second: Alice_walk_right_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alice_walk_right_2
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 853
+        width: 360
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525bd4a0785dfd470800000000000000
+      internalID: 8421684604176282917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alice_walk_right_4
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 844
+        width: 394
+        height: 697
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b868ec97310dc30800000000000000
+      internalID: 4382023851308387098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alice_walk_right_1
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 842
+        width: 402
+        height: 701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b9b4c689f16fa70800000000000000
+      internalID: 8860304056410413862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alice_walk_right_5
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 848
+        width: 402
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f89d0228043230a0800000000000000
+      internalID: -6903398069269849867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 929901230bc52554a8f35ea6dfe30b08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3691224896203184809
+    second: Lackey_Idle__0
+  - first:
+      213: -1169728074345737239
+    second: Lackey_Idle__1
+  - first:
+      213: -6133269144413974492
+    second: Lackey_Idle__2
+  - first:
+      213: -3408777682669664713
+    second: Lackey_Idle__3
+  - first:
+      213: -7296117729197434440
+    second: Lackey_Idle__4
+  - first:
+      213: 1201003524085868224
+    second: Lackey_Idle__5
+  - first:
+      213: 3473278417220953648
+    second: Lackey_Idle__6
+  - first:
+      213: 5966221088400359455
+    second: Lackey_Idle__7
+  - first:
+      213: 8110517817289530727
+    second: Lackey_Idle__8
+  - first:
+      213: 2283671315746057577
+    second: Lackey_Idle__9
+  - first:
+      213: -7174643664998778457
+    second: Lackey_Idle__10
+  - first:
+      213: 3287034765949251867
+    second: Lackey_Idle__11
+  - first:
+      213: -8171784645287941197
+    second: Lackey_Idle__12
+  - first:
+      213: 5733759940451994229
+    second: Lackey_Idle__13
+  - first:
+      213: 2265911914909226898
+    second: Lackey_Idle__14
+  - first:
+      213: -7389249965143558285
+    second: Lackey_Idle__15
+  - first:
+      213: -5269099225468365053
+    second: Lackey_Idle__16
+  - first:
+      213: 5790237485824032182
+    second: Lackey_Idle__17
+  - first:
+      213: -6779179954317657128
+    second: Lackey_Idle__18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lackey_Idle__0
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1017
+        width: 186
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aad4447c7dd93330800000000000000
+      internalID: 3691224896203184809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_Idle__2
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1025
+        width: 187
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4205757653042eaa0800000000000000
+      internalID: -6133269144413974492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_Idle__3
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1039
+        width: 275
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736023212c691b0d0800000000000000
+      internalID: -3408777682669664713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_Idle__4
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1031
+        width: 276
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9d1cfe49bfeba90800000000000000
+      internalID: -7296117729197434440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_Idle__10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 141
+        width: 252
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9bdbd799b8e6c90800000000000000
+      internalID: -7174643664998778457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_Idle__11
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 155
+        width: 252
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11b3c444b4ed9d20800000000000000
+      internalID: 3287034765949251867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_Idle__13
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 154
+        width: 224
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a810e7948629f40800000000000000
+      internalID: 5733759940451994229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_Idle__14
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 157
+        width: 245
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2975d7c91e2227f10800000000000000
+      internalID: 2265911914909226898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

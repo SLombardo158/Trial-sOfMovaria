@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: d4aaed227343dd645973686f30f7cb90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6938492855016887549
+    second: Lackey_With_Bow_Front_Attack__0
+  - first:
+      213: -3341635785096421020
+    second: Lackey_With_Bow_Front_Attack__1
+  - first:
+      213: 8517071722626204283
+    second: Lackey_With_Bow_Front_Attack__2
+  - first:
+      213: -1864851449096878784
+    second: Lackey_With_Bow_Front_Attack__3
+  - first:
+      213: 3770451275329328756
+    second: Lackey_With_Bow_Front_Attack__4
+  - first:
+      213: -4006989042897970165
+    second: Lackey_With_Bow_Front_Attack__5
+  - first:
+      213: -92111081865526506
+    second: Lackey_With_Bow_Front_Attack__6
+  - first:
+      213: 3292308572097171883
+    second: Lackey_With_Bow_Front_Attack__7
+  - first:
+      213: -4184170465976569467
+    second: Lackey_With_Bow_Front_Attack__8
+  - first:
+      213: -8269433750274159418
+    second: Lackey_With_Bow_Front_Attack__9
+  - first:
+      213: 5258288545720198832
+    second: Lackey_With_Bow_Front_Attack__10
+  - first:
+      213: -4313322319179532591
+    second: Lackey_With_Bow_Front_Attack__11
+  - first:
+      213: -4594968851468084848
+    second: Lackey_With_Bow_Front_Attack__12
+  - first:
+      213: 2446669740222804922
+    second: Lackey_With_Bow_Front_Attack__13
+  - first:
+      213: 9008640724977525551
+    second: Lackey_With_Bow_Front_Attack__14
+  - first:
+      213: 8333079832907962168
+    second: Lackey_With_Bow_Front_Attack__15
+  - first:
+      213: -1077958406039658265
+    second: Lackey_With_Bow_Front_Attack__16
+  - first:
+      213: -3639410854119939597
+    second: Lackey_With_Bow_Front_Attack__17
+  - first:
+      213: -3793885274353599395
+    second: Lackey_With_Bow_Front_Attack__18
+  - first:
+      213: 5615861440155831104
+    second: Lackey_With_Bow_Front_Attack__19
+  - first:
+      213: -382516456597596866
+    second: Lackey_With_Bow_Front_Attack__20
+  - first:
+      213: -6159084681141978169
+    second: Lackey_With_Bow_Front_Attack__21
+  - first:
+      213: -2129811187703881587
+    second: Lackey_With_Bow_Front_Attack__22
+  - first:
+      213: 1689069182732999161
+    second: Lackey_With_Bow_Front_Attack__23
+  - first:
+      213: -5965739610443720765
+    second: Lackey_With_Bow_Front_Attack__24
+  - first:
+      213: -7489816479589723286
+    second: Lackey_With_Bow_Front_Attack__25
+  - first:
+      213: -6267173129226058840
+    second: Lackey_With_Bow_Front_Attack__26
+  - first:
+      213: 368444797668886803
+    second: Lackey_With_Bow_Front_Attack__27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 970
+        width: 245
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61347858571c8bef0800000000000000
+      internalID: -92111081865526506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 975
+        width: 180
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba153d2f331a0bd20800000000000000
+      internalID: 3292308572097171883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__8
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 973
+        width: 186
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58139cf3127dee5c0800000000000000
+      internalID: -4184170465976569467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 975
+        width: 185
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc484541d11d3d80800000000000000
+      internalID: -8269433750274159418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__10
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 975
+        width: 183
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6682e929139f840800000000000000
+      internalID: 5258288545720198832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__11
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 978
+        width: 199
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d63a8324300424c0800000000000000
+      internalID: -4313322319179532591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__12
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 978
+        width: 198
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099924ebc246b30c0800000000000000
+      internalID: -4594968851468084848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__13
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 978
+        width: 185
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab37dac6a2154f120800000000000000
+      internalID: 2446669740222804922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 298
+        width: 249
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c719f9179695bc0800000000000000
+      internalID: -3793885274353599395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 297
+        width: 292
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b4d48c93c8fed40800000000000000
+      internalID: 5615861440155831104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__20
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 296
+        width: 286
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3552c33f4701baf0800000000000000
+      internalID: -382516456597596866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__21
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 295
+        width: 249
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb7bfe5d19868aa0800000000000000
+      internalID: -6159084681141978169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__23
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 295
+        width: 261
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f91cddf877c07710800000000000000
+      internalID: 1689069182732999161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__25
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 297
+        width: 251
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6310353893de0890800000000000000
+      internalID: -7489816479589723286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__26
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 297
+        width: 246
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a38b9e6e378609a0800000000000000
+      internalID: -6267173129226058840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lackey_With_Bow_Front_Attack__27
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 294
+        width: 259
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3190564679afc1500800000000000000
+      internalID: 368444797668886803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
